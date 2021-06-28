@@ -16,9 +16,9 @@ hasCJKLanguage = true
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        I'm a QA Engineer. Currently learning Software Development.
+        Say Hi!
     """
-    publicationYear = "2020"
+    publicationYear = "2021"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
