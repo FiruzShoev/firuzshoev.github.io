@@ -5,7 +5,7 @@ canonifyurls = true
 hasCJKLanguage = true
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
-# googleAnalytics = "{your tracking code}"
+googleAnalytics = "G-KZ3L49F6LC"
 
 [markup.goldmark.renderer]
     unsafe = true # Allow user HTML tags
